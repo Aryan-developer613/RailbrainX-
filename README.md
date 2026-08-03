@@ -10,9 +10,8 @@ A real-time AI-powered railway traffic management and simulation dashboard built
 
 ## 🌐 Live Demo
 
-🔗 **[View Live Dashboard](https://YOUR-USERNAME.github.io/railbrainx/)**
+🔗 **[View Live Dashboard](https://Aryan-developer613.github.io/railbrainx/)**
 
-> Replace `YOUR-USERNAME` with your GitHub username after deployment.
 
 ---
 
@@ -81,12 +80,6 @@ railbrainx/
 | `+` / `=` | Zoom in |
 | `-` | Zoom out |
 | `0` | Reset zoom |
-
----
-
-## 📸 Screenshots
-
-> Add screenshots here after deployment!
 
 ---
 
