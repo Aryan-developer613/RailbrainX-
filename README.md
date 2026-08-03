@@ -10,7 +10,7 @@ A real-time AI-powered railway traffic management and simulation dashboard built
 
 ## 🌐 Live Demo
 
-🔗 **[View Live Dashboard](https://Aryan-developer613.github.io/railbrainx/)**
+🔗 **[View Live Dashboard](https://aryan-developer613.github.io/RailbrainX/)**
 
 
 ---
